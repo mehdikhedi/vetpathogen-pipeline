@@ -1,0 +1,4 @@
+id,species,sequence,predicted_species,resistance_risk
+A1,Staphylococcus_aureus,ATGCATGCATGCATGCATGC,Staphylococcus_aureus,High
+A2,Escherichia_coli,ATGCGTATGCGTATGCGTAT,Escherichia_coli,Low
+A3,Pseudomonas_aeruginosa,ATGCCCGGGTTTAAACCCGG,Pseudomonas_aeruginosa,Low
